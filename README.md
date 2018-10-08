@@ -1,4 +1,4 @@
-# A Single Logistic Regressor
+# Logistic Regression
 
 ### Problem Statement:
 
